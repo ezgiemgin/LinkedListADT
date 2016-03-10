@@ -1,0 +1,8 @@
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\bin\Debug\EzgiEmgin BarisAltun.exe.config
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\bin\Debug\EzgiEmgin BarisAltun.exe
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\bin\Debug\EzgiEmgin BarisAltun.pdb
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\obj\Debug\EzgiEmgin BarisAltun.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\obj\Debug\EzgiEmgin_BarisAltun.Properties.Resources.resources
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\obj\Debug\EzgiEmgin BarisAltun.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\obj\Debug\EzgiEmgin BarisAltun.exe
+C:\Users\asus\Desktop\Uygulama\EzgiEmgin BarisAltun\EzgiEmgin BarisAltun\obj\Debug\EzgiEmgin BarisAltun.pdb
