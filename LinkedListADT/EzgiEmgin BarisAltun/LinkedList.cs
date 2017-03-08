@@ -14,16 +14,13 @@ namespace EzgiEmgin_BarisAltun
             {
                 Data = value
             };
-            if (Head == null)
-                Head = tmpHead;
-            else
-            {
-                //En kritik nokta: tmpHead'in next'i eski Head'i göstermeli
-                tmpHead.Next = Head;
-                //Yeni Head artık tmpHead oldu
-                Head = tmpHead;
+            
+            //En kritik nokta: tmpHead'in next'i eski Head'i göstermeli
+            tmpHead.Next = Head;
+            //Yeni Head artık tmpHead oldu
+            Head = tmpHead;
                 
-            }
+            
             //Bağlı listedeki eleman sayısı bir arttı
             Size++;
         }
